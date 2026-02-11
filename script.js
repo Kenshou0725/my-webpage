@@ -1,3 +1,3 @@
-function changeText() {
-  document.getElementById("text").innerText = "ボタン押された！";
+function hello() {
+  alert("成功！！！🎉");
 }
